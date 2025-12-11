@@ -1,0 +1,26 @@
+[
+  {
+    "section": "Milling Machines",
+    "products": [
+      {
+        "id": "m1",
+        "name": "Mill Pro 1000",
+        "type": "Milling",
+        "price": 100000,
+        "image": "/snapshots/product-list.png"
+      }
+    ]
+  },
+  {
+    "section": "Sorters",
+    "products": [
+      {
+        "id": "s1",
+        "name": "OptiSort X",
+        "type": "Sorter",
+        "price": 75000,
+        "image": "/snapshots/product-detail.png"
+      }
+    ]
+  }
+]
