@@ -1,3 +1,6 @@
+# OnlineShoppingCart
+Shopping Cart
+
 ## Getting started
 
 ### Prerequisites
@@ -8,4 +11,4 @@
 ### Install
 
 ### Run in development
--npm run dev
+npm run dev
